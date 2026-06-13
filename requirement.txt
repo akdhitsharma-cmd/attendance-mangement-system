@@ -1,0 +1,12 @@
+streamlit
+mysql.connector
+datetime
+pandas
+smtplib
+random
+os
+bcrypt
+cv2
+face_recognition
+numpy
+io
